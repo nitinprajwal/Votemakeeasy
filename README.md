@@ -2,13 +2,6 @@
 
 **Voting System** is a project expo judging system.
 
-Voting System was originally built for HackMIT and first used at HackMIT 2015. It has
-been used by [dozens][users] of other events since then.
-
-**If you use Voting System for your event, please add yourself to [this list][users]!
-It only takes a minute, and knowing that Voting System is helping real events helps
-keep us going <3**
-
 ## Demo
 
 <p align="center">
