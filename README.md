@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/anishathalye/assets/master/Voting System/banner.png" width="450" alt="Voting System banner">
-
 **Voting System** is a project expo judging system.
 
 ## Demo
@@ -9,9 +7,6 @@
         <img src="https://raw.githubusercontent.com/anishathalye/assets/master/gavel/screenshot.png" width="320" alt="Gavel screenshot">
     </a>
 </p>
-
-See the demo video
-[here](http://www.anishathalye.com/2016/09/19/gavel-an-expo-judging-system/)!
 
 ## Users
 
@@ -132,13 +127,6 @@ quality (Mu).
 
 Interested in hacking on Gavel? Awesome. See [DEVELOPMENT.md][development] for
 a dev setup guide.
-
-## Notes
-
-If you do end up using this for your competition or hackathon, I would love to
-hear about how it goes.
-
-If anyone has questions, feel free to email Anish (me@anishathalye.com).
 
 ## Contributing
 
